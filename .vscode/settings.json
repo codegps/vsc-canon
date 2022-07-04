@@ -1,0 +1,15 @@
+{
+  "debug.console.fontSize": 16,
+  "editor.fontSize": 16,
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "all",
+  "files.trimTrailingWhitespace": true,
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontWeight": "bold",
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+  "[Log]": {
+    "editor.fontSize": 16,
+    "editor.fontWeight": "bold"
+  }
+}
