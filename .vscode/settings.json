@@ -3,6 +3,7 @@
   "editor.fontSize": 16,
   "editor.renderControlCharacters": true,
   "editor.renderWhitespace": "all",
+  "files.saveConflictResolution": "overwriteFileOnDisk",
   "files.trimTrailingWhitespace": true,
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontWeight": "bold",
